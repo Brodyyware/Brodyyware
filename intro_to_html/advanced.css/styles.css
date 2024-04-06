@@ -1,0 +1,107 @@
+/* Global Styles */
+body {
+    background-color: bisque;
+}
+
+img {
+display: block;
+margin: 0 auto;
+width: 100%;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: bisque;
+    text-decoration: none;
+}
+
+#container {
+    background-color: crimson;
+    width: 75%;
+    margin: 20px auto;
+}
+
+h1, h2, h3 {
+text-align: center;
+color: black;
+}
+
+/* Desktop Styles */
+
+nav {
+    background-color: black; 
+padding: 5px 0;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;;
+}
+
+Nav li a {
+    color: crimson;
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+nav li a:hover {
+    color: antiquewhite;
+}
+
+header h1 {
+    font-size: 75px;
+    color: bisque;
+    text-shadow: 2px 2px 2px black;
+}
+
+main {
+    padding: 20px;
+}
+
+main img {
+    width: 50%;
+}
+
+#lower {
+    display: flex;
+}
+
+.col {
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    width: 33.33%;
+    border-radius: 10px;
+}
+
+footer {
+    padding: 40px 0;
+    text-align: center;
+}
+
+.button {
+    display: block;
+    background-color: blue;
+    width: 125px;
+    height: 30px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button:hover {
+    color: white;
+}
