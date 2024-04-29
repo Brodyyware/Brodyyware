@@ -7,5 +7,5 @@
 
 <li><a href="intro_to_html/responsive.css/index 2.html" target="_blank">Responsive design </a></li>
 
-<li><a href="/final/index.html" target="_blank">Final Lab</a></li>
+<li><a href="final/index.html" target="_blank">Final Lab</a></li>
 </ul>
